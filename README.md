@@ -1,2 +1,27 @@
-# Properly-Learning-CSharp
-Going to actually learn CSharp properly this time and not jump straight into a project I dont understand the language of
+# C# Basics
+
+## Data Types
+
+### Variables
+
+### Collections
+
+### Generics
+
+## Functions
+
+## Loops
+
+### For Loop
+
+### While Loop
+
+## Conditionals
+
+### If-Else
+
+### Switch Statements
+
+## Classes
+
+## Exception Handling
