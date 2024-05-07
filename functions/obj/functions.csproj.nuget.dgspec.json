@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\it\\OneDrive\\Documents\\Coding\\csharp-basics\\Functions\\Functions\\Functions.csproj": {}
+    "C:\\Users\\it\\OneDrive\\Documents\\Coding\\csharp-basics\\functions\\functions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\it\\OneDrive\\Documents\\Coding\\csharp-basics\\Functions\\Functions\\Functions.csproj": {
+    "C:\\Users\\it\\OneDrive\\Documents\\Coding\\csharp-basics\\functions\\functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\it\\OneDrive\\Documents\\Coding\\csharp-basics\\Functions\\Functions\\Functions.csproj",
-        "projectName": "Functions",
-        "projectPath": "C:\\Users\\it\\OneDrive\\Documents\\Coding\\csharp-basics\\Functions\\Functions\\Functions.csproj",
+        "projectUniqueName": "C:\\Users\\it\\OneDrive\\Documents\\Coding\\csharp-basics\\functions\\functions.csproj",
+        "projectName": "functions",
+        "projectPath": "C:\\Users\\it\\OneDrive\\Documents\\Coding\\csharp-basics\\functions\\functions.csproj",
         "packagesPath": "C:\\Users\\it\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\it\\OneDrive\\Documents\\Coding\\csharp-basics\\Functions\\Functions\\obj\\",
+        "outputPath": "C:\\Users\\it\\OneDrive\\Documents\\Coding\\csharp-basics\\functions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
