@@ -7,6 +7,13 @@ Console.WriteLine(myList[0].ToString() + myList[1].ToString() + myList[2].ToStri
 List<int> myNewList = [1, 2, 3];
 Console.WriteLine(myNewList[1]);
 
+int[] ints = { 1, 2, 3 };
+Console.WriteLine(ints[0]);
+
+// 2D Array
+int[,] twoDimensions = { { 1, 2, 3 }, { 5, 6, 7 } };
+Console.WriteLine("Two Dimensions: " + twoDimensions[0,2]);
+
 // Dictionary
 Dictionary<string, int> ages = new Dictionary<string, int>
 {
