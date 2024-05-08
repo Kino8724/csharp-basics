@@ -1,27 +1,4 @@
 # C# Basics
 
-## Data Types
-
-### Variables
-
-### Collections
-
-### Generics
-
-## Functions
-
-## Loops
-
-### For Loop
-
-### While Loop
-
-## Conditionals
-
-### If-Else
-
-### Switch Statements
-
-## Classes
-
-## Exception Handling
+Each directory is a console application that you can look at the code for to understand what the directory is named. <br/>
+*Variables directory goes over how to assign variables and also data types since they go hand in hand.*
